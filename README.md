@@ -4,18 +4,13 @@ Aqui é onde você vai encontrar grande parte dos meus projetos, ideias e horas 
 - 😄 Pronomes: ele/dele
 - ☕ [Buy me a coffee!](https://www.buymeacoffee.com/ocramoi)
 
-<details>
-<summary>**🧰 Linguagens e tecnologias:**</summary>
-<br>
+**🧰 Linguagens e tecnologias:**
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=c&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=gnu&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Netbeans-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Platform-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a) 
 </details>
 
-<details>
-  <summary>**📈 Stats:**</summary>
-  <br>
-  ![](https://github-readme-stats.vercel.app/api?username=Ocramoi&theme=dracula)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ocramoi&theme=dracula)
-</details>
+**📈 Stats:**
+![](https://github-readme-stats.vercel.app/api?username=Ocramoi&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ocramoi&theme=dracula)
 
 <!--
 **Ocramoi/Ocramoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
