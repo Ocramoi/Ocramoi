@@ -3,10 +3,7 @@ Aqui é onde você vai encontrar grande parte dos meus projetos, ideias e horas 
 - 📫 Social: [![](https://img.shields.io/github/followers/Ocramoi?label=Me%20siga%20aqui&style=social)](https://github.com/Ocramoi) [![](https://img.shields.io/twitter/follow/Ocramoi?label=Twitter&style=social)](https://twitter.com/Ocramoi) [![](https://img.shields.io/reddit/user-karma/combined/ocramoidev?style=social)](https://www.reddit.com/u/ocramoidev) [![](https://img.shields.io/mastodon/follow/76241?domain=https%3A%2F%2Fmastodon.online&style=social)](https://mastodon.online/web/accounts/76241)
 - 😄 Pronomes: ele/dele
 - ☕ [Buy me a coffee!](https://www.buymeacoffee.com/ocramoi)
-- Liberapay:
-<a href="https://liberapay.com/ocramoi/donate">
-  <img src="https://img.shields.io/liberapay/receives/ocramoi.svg?logo=liberapay">
-</a>
+- Liberapay: [![](https://img.shields.io/liberapay/receives/ocramoi.svg?logo=liberapay)](https://liberapay.com/ocramoi/donate)
 
 **🧰 Linguagens e tecnologias:**
 
