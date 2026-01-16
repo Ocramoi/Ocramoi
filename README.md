@@ -7,13 +7,42 @@ Aqui é onde você vai encontrar grande parte dos meus projetos, ideias e horas 
 
 **🧰 Linguagens e tecnologias:**
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=86328A) ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=86328A) ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=F68D2E) ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-ts-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=c&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=gnu&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Netbeans-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tool-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Platform-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=86328A)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=86328A)
+![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=F68D2E)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ts-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Emacs-informational?style=flat&logo=gnu&logoColor=white&color=aecbfa)
+![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=aecbfa)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=aecbfa)
+![](https://img.shields.io/badge/Editor-Netbeans-informational?style=flat&logo=apache&logoColor=white&color=aecbfa)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=da291c)
+![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=da291c)
+![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=da291c)
+![](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=da291c)
+![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=da291c)
+![](https://img.shields.io/badge/Tool-Unity-informational?style=flat&logo=unity&logoColor=white&color=da291c)
+![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=f48c00)
+![](https://img.shields.io/badge/Platform-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=f48c00) 
 </details>
 
 **📈 Stats:**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ocramoi&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=Ocramoi&theme=dracula)
+![GitHub User's stars](https://img.shields.io/github/stars/ocramoi)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/ocramoidev)
+[![Marco 'Ocramoi' Toledo profile views](https://u8views.com/api/v1/github/profiles/9422402/views/day-week-month-total-count.svg)](https://u8views.com/github/Ocramoi)
 
 <!--
 **Ocramoi/Ocramoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
